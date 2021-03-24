@@ -355,6 +355,10 @@ img{
 @media (max-width: 1024px ){
     .nav-bar {
         justify-content: center;
+        height: 150px;
+    }
+    .menu ul {
+        font-size: .7rem;
     }
 }
 
